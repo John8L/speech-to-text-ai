@@ -1,0 +1,4 @@
+[server]
+maxUploadSize = 500  # 設置上傳限制為500MB
+enableCORS = false
+enableXsrfProtection = false
