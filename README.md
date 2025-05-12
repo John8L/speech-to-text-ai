@@ -1,3 +1,7 @@
+# 檔案下載
+英文語錄23秒.mp3
+https://reurl.cc/AMD1qK
+
 # 語音轉文字應用
 
 這是一個使用 OpenAI Whisper 模型的語音轉文字工具，支援檔案上傳和錄音輸入。
