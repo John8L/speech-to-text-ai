@@ -33,3 +33,4 @@ https://reurl.cc/AMD1qK
 ## 系統需求
 - Python 3.8+
 - FFmpeg (用於音訊格式轉換)
+- webapp
